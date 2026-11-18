@@ -1,0 +1,620 @@
+{
+  "collections": [
+    {
+      "slug": "birthdaygifts",
+      "title": "Birthday Gifts"
+    },
+    {
+      "slug": "jewellery",
+      "title": "Jewellery"
+    },
+    {
+      "slug": "frames",
+      "title": "Frames"
+    },
+    {
+      "slug": "godpaintings",
+      "title": "God Paintings"
+    },
+    {
+      "slug": "weddingdecor",
+      "title": "Wedding Decor"
+    },
+    {
+      "slug": "homedecor",
+      "title": "Home Decor"
+    },
+    {
+      "slug": "vintageletters",
+      "title": "Hand-Written Vintage Letters"
+    },
+    {
+      "slug": "welcomeboards",
+      "title": "Welcome Boards"
+    }
+  ],
+  "categories": [
+    {
+      "collection": "birthdaygifts",
+      "key": "greeting",
+      "title": "Greeting Cards"
+    },
+    {
+      "collection": "birthdaygifts",
+      "key": "album",
+      "title": "Photo Album"
+    },
+    {
+      "collection": "birthdaygifts",
+      "key": "frame",
+      "title": "Mini Photo Frame"
+    },
+    {
+      "collection": "birthdaygifts",
+      "key": "box",
+      "title": "Gift Box"
+    },
+    {
+      "collection": "jewellery",
+      "key": "bangles",
+      "title": "Thread Bangles"
+    },
+    {
+      "collection": "jewellery",
+      "key": "accessories",
+      "title": "Hair Accessories"
+    },
+    {
+      "collection": "frames",
+      "key": "frames",
+      "title": "Photo Frames"
+    },
+    {
+      "collection": "godpaintings",
+      "key": "main",
+      "title": "God Paintings"
+    },
+    {
+      "collection": "weddingdecor",
+      "key": "kudakalu",
+      "title": "Kudakalu"
+    },
+    {
+      "collection": "weddingdecor",
+      "key": "kobbariBondam",
+      "title": "Kobbari Bondam"
+    },
+    {
+      "collection": "weddingdecor",
+      "key": "kundalu",
+      "title": "Kundalu"
+    },
+    {
+      "collection": "weddingdecor",
+      "key": "ungaralaBindhe",
+      "title": "Ungarala Bindhe"
+    },
+    {
+      "collection": "homedecor",
+      "key": "mirrors",
+      "title": "Mirrors"
+    },
+    {
+      "collection": "homedecor",
+      "key": "wallDecor",
+      "title": "Wall Decor"
+    },
+    {
+      "collection": "homedecor",
+      "key": "tableDecor",
+      "title": "Table Decor"
+    },
+    {
+      "collection": "homedecor",
+      "key": "handmadeDecor",
+      "title": "Handmade Decor"
+    },
+    {
+      "collection": "vintageletters",
+      "key": "vintageLetters",
+      "title": "Vintage Letters"
+    },
+    {
+      "collection": "vintageletters",
+      "key": "specialLetters",
+      "title": "Special Letters"
+    },
+    {
+      "collection": "welcomeboards",
+      "key": "wooden",
+      "title": "Wooden Welcome Boards"
+    },
+    {
+      "collection": "welcomeboards",
+      "key": "floral",
+      "title": "Floral Welcome Boards"
+    },
+    {
+      "collection": "welcomeboards",
+      "key": "customized",
+      "title": "Customized Welcome Boards"
+    }
+  ],
+  "products": [
+    {
+      "collection": "birthdaygifts",
+      "category": "greeting",
+      "name": "Greeting Card",
+      "price": 180,
+      "images": [
+        "/assets/images/design1 open.jpeg",
+        "/assets/images/design1 close.jpeg"
+      ],
+      "sort_order": 1
+    },
+    {
+      "collection": "birthdaygifts",
+      "category": "greeting",
+      "name": "Greeting Card",
+      "price": 219,
+      "images": [
+        "/assets/images/design2 open.jpeg",
+        "/assets/images/WhatsApp Image 2026-09-03 at 7.05.37 PM.jpeg"
+      ],
+      "sort_order": 2
+    },
+    {
+      "collection": "birthdaygifts",
+      "category": "album",
+      "name": "Photo Album",
+      "price": 299,
+      "images": [
+        "/assets/images/photo album 1.jpeg",
+        "/assets/images/bookopenpic.jpeg",
+        "/assets/images/photo album 2.jpeg"
+      ],
+      "sort_order": 3
+    },
+    {
+      "collection": "birthdaygifts",
+      "category": "album",
+      "name": "Photo Album",
+      "price": 599,
+      "images": [
+        "/assets/images/photo album 3.jpeg",
+        "/assets/images/photo album 4.jpeg"
+      ],
+      "sort_order": 4
+    },
+    {
+      "collection": "birthdaygifts",
+      "category": "frame",
+      "name": "Mini Photo Frame",
+      "price": 199,
+      "images": [
+        "/assets/images/mini photo frame 1.jpeg",
+        "/assets/images/mini photo frame 2.jpeg"
+      ],
+      "sort_order": 5
+    },
+    {
+      "collection": "birthdaygifts",
+      "category": "frame",
+      "name": "Mini Photo Frame",
+      "price": 249,
+      "images": [
+        "/assets/images/mini photo frame 3.jpeg",
+        "/assets/images/mini photo frame 4.jpeg"
+      ],
+      "sort_order": 6
+    },
+    {
+      "collection": "birthdaygifts",
+      "category": "box",
+      "name": "Gift Box",
+      "price": 399,
+      "images": [
+        "/assets/images/gift box 1.jpeg",
+        "/assets/images/gift box 2.jpeg"
+      ],
+      "sort_order": 7
+    },
+    {
+      "collection": "birthdaygifts",
+      "category": "box",
+      "name": "Gift Box",
+      "price": 499,
+      "images": [
+        "/assets/images/gift box 3.jpeg",
+        "/assets/images/gift box 4.jpeg"
+      ],
+      "sort_order": 8
+    },
+    {
+      "collection": "jewellery",
+      "category": "bangles",
+      "name": "Thread Bangles",
+      "price": 180,
+      "images": [
+        "/assets/images/design1 open.jpeg",
+        "/assets/images/design1 close.jpeg"
+      ],
+      "sort_order": 9
+    },
+    {
+      "collection": "jewellery",
+      "category": "bangles",
+      "name": "Thread Bangles",
+      "price": 219,
+      "images": [
+        "/assets/images/design2 open.jpeg",
+        "/assets/images/WhatsApp Image 2026-09-03 at 7.05.37 PM.jpeg"
+      ],
+      "sort_order": 10
+    },
+    {
+      "collection": "jewellery",
+      "category": "accessories",
+      "name": "Hair Accessories",
+      "price": 299,
+      "images": [
+        "/assets/images/photo album 1.jpeg",
+        "/assets/images/bookopenpic.jpeg",
+        "/assets/images/photo album 2.jpeg"
+      ],
+      "sort_order": 11
+    },
+    {
+      "collection": "jewellery",
+      "category": "accessories",
+      "name": "Hair Accessories",
+      "price": 599,
+      "images": [
+        "/assets/images/photo album 3.jpeg",
+        "/assets/images/photo album 4.jpeg"
+      ],
+      "sort_order": 12
+    },
+    {
+      "collection": "frames",
+      "category": "frames",
+      "name": "Photo Frame",
+      "price": 499,
+      "images": [
+        "/assets/images/frame1.jpeg",
+        "/assets/images/frame1-2.jpeg"
+      ],
+      "sort_order": 13
+    },
+    {
+      "collection": "frames",
+      "category": "frames",
+      "name": "Photo Frame",
+      "price": 699,
+      "images": [
+        "/assets/images/frame2.jpeg",
+        "/assets/images/frame2-2.jpeg"
+      ],
+      "sort_order": 14
+    },
+    {
+      "collection": "frames",
+      "category": "frames",
+      "name": "Photo Frame",
+      "price": 899,
+      "images": [
+        "/assets/images/frame3.jpeg",
+        "/assets/images/frame3-2.jpeg"
+      ],
+      "sort_order": 15
+    },
+    {
+      "collection": "godpaintings",
+      "category": "main",
+      "name": "God Painting",
+      "price": 599,
+      "images": [
+        "/assets/images/god-painting-1.jpg",
+        "/assets/images/god-painting-1-2.jpg"
+      ],
+      "sort_order": 16
+    },
+    {
+      "collection": "godpaintings",
+      "category": "main",
+      "name": "God Painting",
+      "price": 799,
+      "images": [
+        "/assets/images/god-painting-2.jpg",
+        "/assets/images/god-painting-2-2.jpg"
+      ],
+      "sort_order": 17
+    },
+    {
+      "collection": "weddingdecor",
+      "category": "kudakalu",
+      "name": "Kudakalu",
+      "price": 100,
+      "images": [
+        "/assets/images/kudakalu1.jpeg",
+        "/assets/images/kudakalu1-2.jpeg"
+      ],
+      "sort_order": 18
+    },
+    {
+      "collection": "weddingdecor",
+      "category": "kudakalu",
+      "name": "Kudakalu",
+      "price": 250,
+      "images": [
+        "/assets/images/kudakalu2.jpeg",
+        "/assets/images/kudakalu2-2.jpeg"
+      ],
+      "sort_order": 19
+    },
+    {
+      "collection": "weddingdecor",
+      "category": "kobbariBondam",
+      "name": "Kobbari Bondam",
+      "price": 500,
+      "images": [
+        "/assets/images/kobbaribondam1.jpeg",
+        "/assets/images/kobbaribondam1-2.jpeg"
+      ],
+      "sort_order": 20
+    },
+    {
+      "collection": "weddingdecor",
+      "category": "kobbariBondam",
+      "name": "Kobbari Bondam",
+      "price": 1500,
+      "images": [
+        "/assets/images/kobbaribondam2.jpeg",
+        "/assets/images/kobbaribondam2-2.jpeg"
+      ],
+      "sort_order": 21
+    },
+    {
+      "collection": "weddingdecor",
+      "category": "kundalu",
+      "name": "Kundalu",
+      "price": 700,
+      "images": [
+        "/assets/images/kundalu1.jpeg",
+        "/assets/images/kundalu1-2.jpeg"
+      ],
+      "sort_order": 22
+    },
+    {
+      "collection": "weddingdecor",
+      "category": "kundalu",
+      "name": "Kundalu",
+      "price": 1500,
+      "images": [
+        "/assets/images/kundalu2.jpeg",
+        "/assets/images/kundalu2-2.jpeg"
+      ],
+      "sort_order": 23
+    },
+    {
+      "collection": "weddingdecor",
+      "category": "ungaralaBindhe",
+      "name": "Ungarala Bindhe",
+      "price": 2000,
+      "images": [
+        "/assets/images/ungarala-bindhe1.jpeg",
+        "/assets/images/ungarala-bindhe1-2.jpeg"
+      ],
+      "sort_order": 24
+    },
+    {
+      "collection": "weddingdecor",
+      "category": "ungaralaBindhe",
+      "name": "Ungarala Bindhe",
+      "price": 4000,
+      "images": [
+        "/assets/images/ungarala-bindhe2.jpeg",
+        "/assets/images/ungarala-bindhe2-2.jpeg"
+      ],
+      "sort_order": 25
+    },
+    {
+      "collection": "homedecor",
+      "category": "mirrors",
+      "name": "Handmade Decorative Mirror",
+      "price": 850,
+      "images": [
+        "/assets/images/home-mirror-1.jpeg",
+        "/assets/images/home-mirror-1-open.jpeg"
+      ],
+      "sort_order": 26
+    },
+    {
+      "collection": "homedecor",
+      "category": "mirrors",
+      "name": "Traditional Wall Mirror",
+      "price": 1200,
+      "images": [
+        "/assets/images/home-mirror-2.jpeg",
+        "/assets/images/home-mirror-2-open.jpeg"
+      ],
+      "sort_order": 27
+    },
+    {
+      "collection": "homedecor",
+      "category": "wallDecor",
+      "name": "Handmade Wall Decor",
+      "price": 650,
+      "images": [
+        "/assets/images/wall-decor-1.jpeg",
+        "/assets/images/wall-decor-1-2.jpeg"
+      ],
+      "sort_order": 28
+    },
+    {
+      "collection": "homedecor",
+      "category": "wallDecor",
+      "name": "Decorative Wall Hanging",
+      "price": 750,
+      "images": [
+        "/assets/images/wall-decor-2.jpeg",
+        "/assets/images/wall-decor-2-2.jpeg"
+      ],
+      "sort_order": 29
+    },
+    {
+      "collection": "homedecor",
+      "category": "tableDecor",
+      "name": "Handmade Table Decor",
+      "price": 450,
+      "images": [
+        "/assets/images/table-decor-1.jpeg",
+        "/assets/images/table-decor-1-2.jpeg"
+      ],
+      "sort_order": 30
+    },
+    {
+      "collection": "homedecor",
+      "category": "tableDecor",
+      "name": "Decorative Table Piece",
+      "price": 550,
+      "images": [
+        "/assets/images/table-decor-2.jpeg",
+        "/assets/images/table-decor-2-2.jpeg"
+      ],
+      "sort_order": 31
+    },
+    {
+      "collection": "homedecor",
+      "category": "handmadeDecor",
+      "name": "Handmade Home Decor",
+      "price": 500,
+      "images": [
+        "/assets/images/handmade-decor-1.jpeg",
+        "/assets/images/handmade-decor-1-2.jpeg"
+      ],
+      "sort_order": 32
+    },
+    {
+      "collection": "homedecor",
+      "category": "handmadeDecor",
+      "name": "Creative Handmade Decor",
+      "price": 700,
+      "images": [
+        "/assets/images/handmade-decor-2.jpeg",
+        "/assets/images/handmade-decor-2-2.jpeg"
+      ],
+      "sort_order": 33
+    },
+    {
+      "collection": "vintageletters",
+      "category": "vintageLetters",
+      "name": "Hand Written Vintage Letter",
+      "price": 299,
+      "images": [
+        "/assets/images/vintage-letter-1.jpeg",
+        "/assets/images/vintage-letter-1-back.jpeg"
+      ],
+      "sort_order": 34
+    },
+    {
+      "collection": "vintageletters",
+      "category": "vintageLetters",
+      "name": "Hand Written Vintage Letter",
+      "price": 399,
+      "images": [
+        "/assets/images/vintage-letter-2.jpeg",
+        "/assets/images/vintage-letter-2-back.jpeg"
+      ],
+      "sort_order": 35
+    },
+    {
+      "collection": "vintageletters",
+      "category": "specialLetters",
+      "name": "Special Hand Written Letter",
+      "price": 499,
+      "images": [
+        "/assets/images/special-letter-1.jpeg",
+        "/assets/images/special-letter-1-back.jpeg"
+      ],
+      "sort_order": 36
+    },
+    {
+      "collection": "vintageletters",
+      "category": "specialLetters",
+      "name": "Special Hand Written Letter",
+      "price": 599,
+      "images": [
+        "/assets/images/special-letter-2.jpeg",
+        "/assets/images/special-letter-2-back.jpeg"
+      ],
+      "sort_order": 37
+    },
+    {
+      "collection": "welcomeboards",
+      "category": "wooden",
+      "name": "Classic Wooden Welcome Board",
+      "price": 800,
+      "images": [
+        "/assets/images/wooden-welcome-1.jpeg",
+        "/assets/images/wooden-welcome-1-back.jpeg"
+      ],
+      "sort_order": 38
+    },
+    {
+      "collection": "welcomeboards",
+      "category": "wooden",
+      "name": "Elegant Wooden Welcome Board",
+      "price": 1200,
+      "images": [
+        "/assets/images/wooden-welcome-2.jpeg",
+        "/assets/images/wooden-welcome-2-back.jpeg"
+      ],
+      "sort_order": 39
+    },
+    {
+      "collection": "welcomeboards",
+      "category": "floral",
+      "name": "Floral Welcome Board",
+      "price": 1000,
+      "images": [
+        "/assets/images/floral-welcome-1.jpeg",
+        "/assets/images/floral-welcome-1-back.jpeg"
+      ],
+      "sort_order": 40
+    },
+    {
+      "collection": "welcomeboards",
+      "category": "floral",
+      "name": "Premium Floral Welcome Board",
+      "price": 1500,
+      "images": [
+        "/assets/images/floral-welcome-2.jpeg",
+        "/assets/images/floral-welcome-2-back.jpeg"
+      ],
+      "sort_order": 41
+    },
+    {
+      "collection": "welcomeboards",
+      "category": "customized",
+      "name": "Customized Wedding Welcome Board",
+      "price": 1200,
+      "images": [
+        "/assets/images/custom-welcome-1.jpeg",
+        "/assets/images/custom-welcome-1-back.jpeg"
+      ],
+      "sort_order": 42
+    },
+    {
+      "collection": "welcomeboards",
+      "category": "customized",
+      "name": "Personalized Welcome Board",
+      "price": 1800,
+      "images": [
+        "/assets/images/custom-welcome-2.jpeg",
+        "/assets/images/custom-welcome-2-back.jpeg"
+      ],
+      "sort_order": 43
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+package com.artforyou.store.controller;
+import com.artforyou.store.entity.Product; import com.artforyou.store.repository.*; import com.fasterxml.jackson.databind.ObjectMapper; import org.springframework.web.bind.annotation.*; import java.util.*;
+@RestController @RequestMapping("/api") public class CatalogueController {
+ private final CollectionRepository collections; private final ProductRepository products; private final ObjectMapper mapper;
+ public CatalogueController(CollectionRepository c,ProductRepository p,ObjectMapper m){collections=c;products=p;mapper=m;}
+ @GetMapping("/collections") public List<Map<String,Object>> collections(){return collections.findAllByOrderBySortOrderAsc().stream().map(c->{Map<String,Object> m=new LinkedHashMap<>();m.put("slug",c.getSlug());m.put("title",c.getTitle());m.put("categories",List.of());return m;}).toList();}
+ @GetMapping("/products") public List<Map<String,Object>> products(@RequestParam(required=false) String collection,@RequestParam(required=false) String category){List<Product> rows;if(collection!=null&&!collection.isBlank())rows=products.findByActiveTrueAndCollectionOrderBySortOrderAscIdAsc(collection);else if(category!=null&&!category.isBlank())rows=products.findByActiveTrueAndCategoryOrderBySortOrderAscIdAsc(category);else rows=products.findByActiveTrueOrderBySortOrderAscIdAsc();return rows.stream().map(p->{Map<String,Object> m=new LinkedHashMap<>();m.put("id",p.getId());m.put("collection",p.getCollection());m.put("category",p.getCategory());m.put("name",p.getName());m.put("price",p.getPrice());try{m.put("images",mapper.readValue(p.getImages(),List.class));}catch(Exception e){m.put("images",List.of());}m.put("description",p.getDescription());return m;}).toList();}
+}
